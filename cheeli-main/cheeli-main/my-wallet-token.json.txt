@@ -1,6 +1,0 @@
-{
-  "name": "Fast Token",
-  "symbol": "$FT",
-  "description": "It's a interest token. NFA.",
-  "image": ""
-}
